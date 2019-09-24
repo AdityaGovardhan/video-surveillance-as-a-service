@@ -1,3 +1,4 @@
+![alt text](https://github.com/AdityaGovardhan/video-surveillance-as-a-service/blob/master/architecture.jpg)
 Prerequisites:
 ==============
 - Bash Shell
